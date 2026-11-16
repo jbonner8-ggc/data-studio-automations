@@ -1,0 +1,380 @@
+Rank,City Name,Postal Code,Scans
+1,Athens,30606,1260
+2,Atlanta,30315,555
+3,Lawrenceville,30043,227
+4,Moses Lake,98837,66
+5,Boydton,23917,58
+6,Fairburn,30213,46
+7,Des Moines,50317,46
+8,San Francisco,94112,45
+9,Alpharetta,30022,43
+10,Decatur,30032,42
+11,Stone Mountain,30083,38
+12,Cumming,30041,38
+13,Buford,30518,37
+14,Duluth,30097,30
+15,Augusta,30907,28
+16,Snellville,30039,27
+17,Marietta,30066,27
+18,Suwanee,30024,25
+19,Mcdonough,30253,24
+20,Albany,31705,23
+21,Gainesville,30504,21
+22,Macon,31216,20
+23,Norcross,30071,20
+24,Loganville,30052,19
+25,Savannah,31408,18
+26,Jonesboro,30236,17
+27,Dacula,30019,17
+28,Ashburn,20147,16
+29,Statesboro,30458,16
+30,Conyers,30094,15
+31,Lilburn,30047,14
+32,Birmingham,35209,13
+33,Warner Robins,31093,13
+34,Kennesaw,30144,13
+35,Winder,30680,13
+36,Smyrna,30082,13
+37,Huntsville,35811,12
+38,Wilmington,19805,10
+39,Covington,30014,10
+40,Stockbridge,30281,10
+41,Evans,30809,10
+42,Columbus,31904,9
+43,Brunswick,31520,9
+44,Miami,33132,9
+45,Douglasville,30135,9
+46,Tucker,30084,9
+47,Jacksonville,32210,9
+48,Lexington,29072,9
+49,Canton,30114,8
+50,Toronto,m6c 1c7,8
+51,Carrollton,30117,8
+52,Lithonia,30058,8
+53,Baltimore,21202,8
+54,New York,10025,7
+55,Griffin,30224,7
+56,Monroe,30655,7
+57,Mountain View,94043,6
+58,Los Angeles,90011,6
+59,Mobile,36619,6
+60,Eatonton,31024,6
+61,Acworth,30101,6
+62,Woodstock,30189,6
+63,Pensacola,32505,6
+64,Perry,31069,6
+65,Raleigh,27609,6
+66,Barnwell,29812,6
+67,Braselton,30517,5
+68,Memphis,38108,5
+69,Hampton,30228,5
+70,Fayetteville,30214,5
+71,Waleska,30183,5
+72,Austell,30168,5
+73,Jefferson,30549,5
+74,Harrison,37341,5
+75,Charlotte,28213,5
+76,Wilmington,28403,5
+77,Neptune,07753,5
+78,Flowery Branch,30542,5
+79,North Augusta,29841,5
+80,Morrow,30260,5
+81,Union City,30291,5
+82,Anniston,36206,5
+83,Grovetown,30813,5
+84,Greenwich,b4p 0a7,5
+85,Rome,30161,4
+86,Newark,14513,4
+87,Knoxville,37922,4
+88,Franklin,30217,4
+89,Douglas,31533,4
+90,Peachtree Corners,30092,4
+91,Dalton,30720,4
+92,Chattanooga,37419,4
+93,Blackshear,31516,4
+94,Clarkston,30021,4
+95,Bremen,30110,4
+96,Valdosta,31601,4
+97,Nashville,37211,4
+98,Tyrone,30290,4
+99,Peachtree City,30269,4
+100,Florence,29501,4
+101,Riverdale,30274,3
+102,Cleveland,30528,3
+103,Mount Laurel,08054,3
+104,Aiken,29803,3
+105,Gastonia,28054,3
+106,Dallas,75202,3
+107,Tybee Island,31328,3
+108,Claxton,30417,3
+109,Cedartown,30125,3
+110,Cartersville,30120,3
+111,Statham,30666,3
+112,Powder Springs,30127,3
+113,Hoschton,30548,3
+114,Dawsonville,30534,3
+115,Lithia Springs,30122,3
+116,Hinesville,31313,3
+117,Newnan,30265,3
+118,Moultrie,31768,3
+119,Brooklyn,11224,3
+120,Twin City,30471,3
+121,Ellenwood,30294,3
+122,Rapid City,57703,3
+123,Forest Park,30297,3
+124,Crawfordville,30631,3
+125,Crossville,35962,3
+126,Millen,30442,3
+127,Biloxi,39530,3
+128,Houston,77084,2
+129,Guyton,31312,2
+130,Bay Minette,36507,2
+131,Salt Lake City,84111,2
+132,Charleston,29406,2
+133,Roswell,30075,2
+134,Alexander City,35010,2
+135,Montgomery,36117,2
+136,Greensboro,30642,2
+137,Milton,32571,2
+138,Bonaire,31005,2
+139,Fuquay Varina,27526,2
+140,Montreal,h3h 1a2,2
+141,Ellaville,31806,2
+142,Thomaston,30286,2
+143,Orange,77630,2
+144,Panama City,32401,2
+145,Eastman,31023,2
+146,Waynesboro,30830,2
+147,Auburn,30011,2
+148,Ocean Springs,39564,2
+149,Conley,30288,2
+150,Thomson,30824,2
+151,Spartanburg,29302,2
+152,Milledgeville,31061,2
+153,Rock Springs,82901,2
+154,Russellville,42276,2
+155,Graniteville,29829,2
+156,Hesston,67062,2
+157,Clarkesville,30523,2
+158,Sylvania,30467,2
+159,Dallas,30157,2
+160,Tupelo,38804,2
+161,Fulton,38843,2
+162,Likely,v0l 1n0,2
+163,Watkinsville,30677,2
+164,Folkston,31537,2
+165,Sealy,77474,2
+166,Madison,30650,2
+167,Vidalia,30474,2
+168,Jasper,30143,2
+169,Angier,27501,2
+170,Toccoa,30577,2
+171,Pisgah,35765,2
+172,Middletown,06457,2
+173,Dublin,31021,2
+174,St Simons Island,31522,2
+175,Forsyth,31029,2
+176,Jackson,30233,2
+177,Cornelia,30531,2
+178,Durham,27707,2
+179,Mount Vernon,30445,2
+180,Screven,31560,2
+181,Wrightsville,31096,2
+182,Epworth,30541,2
+183,Clermont,30527,2
+184,East Setauket,11733,2
+185,Demorest,30535,2
+186,Mableton,30126,2
+187,Hazlehurst,31539,2
+188,Lincolnton,30817,2
+189,Kingsland,31548,2
+190,Lagrange,30240,1
+191,Auburn,36830,1
+192,Kathleen,31047,1
+193,Neptune Beach,32266,1
+194,Smyrna,29743,1
+195,Culloden,31016,1
+196,Haleyville,35565,1
+197,Harbor Beach,48441,1
+198,Stockton,95204,1
+199,Clewiston,33440,1
+200,Dahlonega,30533,1
+201,Greenville,29605,1
+202,Guangzhou,510000,1
+203,Rentz,31075,1
+204,Summerville,29483,1
+205,Collinsville,62234,1
+206,Hephzibah,30815,1
+207,Raceland,70394,1
+208,Buchanan,30113,1
+209,Wetumpka,36092,1
+210,Newport News,23606,1
+211,Americus,31709,1
+212,Cuthbert,39840,1
+213,Gadsden,35901,1
+214,Romney,26757,1
+215,Greenville,30222,1
+216,Cleveland,37312,1
+217,Erwin,28339,1
+218,Swainsboro,30401,1
+219,Indianapolis,46240,1
+220,Decatur,35601,1
+221,Franklin,23851,1
+222,Nicholls,31554,1
+223,La Fayette,30728,1
+224,Winter Garden,34787,1
+225,Calhoun,30701,1
+226,Chicago,60637,1
+227,Adairsville,30103,1
+228,Seattle,98199,1
+229,Byron,31008,1
+230,Kelowna,v1x 6v2,1
+231,San Marcos,78666,1
+232,Cochran,31014,1
+233,Bruneau,83604,1
+234,Sharpsburg,30277,1
+235,Pentwater,49449,1
+236,Sapucaia Do Sul,93220-290,1
+237,Chatsworth,30705,1
+238,Myrtle Beach,29577,1
+239,Roanoke,36274,1
+240,Ft Walton Beach,32548,1
+241,Hopkins,29061,1
+242,Vienna,22182,1
+243,Chardon,44024,1
+244,Silverhill,36576,1
+245,Tokyo,100-0001,1
+246,Elberton,30635,1
+247,Clarksburg,26301,1
+248,West Memphis,72301,1
+249,Ernakulam,682034,1
+250,Tiger,30576,1
+251,Pelham,31779,1
+252,Jamestown,27282,1
+253,Maysville,30558,1
+254,Jesup,31545,1
+255,Curran,48728,1
+256,Greenwood,29646,1
+257,Wichita,67218,1
+258,Horton,35980,1
+259,Midland,79705,1
+260,Newton,28658,1
+261,Fernandina Beach,32034,1
+262,Palestine,75801,1
+263,Baldwin,30511,1
+264,Aberdeen,39730,1
+265,Ashford,36312,1
+266,Beech Island,29842,1
+267,Panama City Beach,32413,1
+268,Fort Saskatchewan,t8l 4s2,1
+269,Syracuse,67878,1
+270,Soperton,30457,1
+271,Amory,38821,1
+272,West Point,31833,1
+273,Madison,35758,1
+274,Bronx,10460,1
+275,Manassas,20110,1
+276,Lynbrook,11563,1
+277,Foley,36535,1
+278,George Town,ky1-1100,1
+279,Shanghai,200000,1
+280,Orlando,32822,1
+281,Daytona Beach,32114,1
+282,Ft Myers,33912,1
+283,Ozark,36360,1
+284,Crane Hill,35053,1
+285,Woodbine,31569,1
+286,Jeffersonville,31044,1
+287,Centerville,31028,1
+288,Juarez,32107,1
+289,Warrenton,30828,1
+290,Florence,35634,1
+291,Adrian,26210,1
+292,Mansfield,30055,1
+293,Church Hill,37642,1
+294,Piedmont,36272,1
+295,Grayson,30017,1
+296,Waveland,39576,1
+297,Comer,30629,1
+298,Gautier,39553,1
+299,Minneapolis,55442,1
+300,Irvington,36544,1
+301,Cartersville,23027,1
+302,Rincon,31326,1
+303,Goodlettsville,37072,1
+304,Waycross,31503,1
+305,Evansville,47714,1
+306,Etowah,37331,1
+307,Washington,20001,1
+308,Trenton,29847,1
+309,Ludowici,31316,1
+310,Belfast,04915,1
+311,Charleston,25387,1
+312,Cave Spring,30124,1
+313,Cross,29436,1
+314,Ecoporanga,29850-971,1
+315,Greenville,27858,1
+316,North Myrtle Beach,29582,1
+317,Singapore,228211,1
+318,Lakewood,44107,1
+319,Reidsville,30453,1
+320,Salem,47167,1
+321,Jekyll Island,31527,1
+322,Port Wentworth,31407,1
+323,Mcallen,78501,1
+324,Quemado,78877,1
+325,Monroe,71203,1
+326,Ferdinand,47532,1
+327,Ariton,36311,1
+328,Oxford,30054,1
+329,Sumter,29153,1
+330,Woodbridge,l4h 2c3,1
+331,Sparta,62286,1
+332,San Augustine,75972,1
+333,Oakville,l6j 4t5,1
+334,Baghdad,10001,1
+335,Conroe,77302,1
+336,Palmetto,30268,1
+337,Grantville,30220,1
+338,Lumberton,28360,1
+339,Sardis,30456,1
+340,Queensbury,12804,1
+341,American Falls,83211,1
+342,Isle Of Palms,29451,1
+343,Lanett,36863,1
+344,Summerville,30747,1
+345,Frankfurt Am Main,60323,1
+346,Laurens,29360,1
+347,Hattiesburg,39406,1
+348,Marion,28752,1
+349,Clarksville,37040,1
+350,Tunnel Hill,30755,1
+351,Soddy Daisy,37379,1
+352,Anderson,29621,1
+353,Germantown,20874,1
+354,Salley,29137,1
+355,Windsor,27983,1
+356,Headland,36345,1
+357,Riverview,33578,1
+358,Blue Ridge,30513,1
+359,Mc Connelsville,43756,1
+360,Hillsborough,27278,1
+361,New Orleans,70114,1
+362,Rocky Mount,24151,1
+363,Opelika,36801,1
+364,Attalla,35954,1
+365,Barwick,31720,1
+366,Ft Valley,31030,1
+367,Hampton,32044,1
+368,Conway,29527,1
+369,Maiden,28650,1
+370,Donalsonville,39845,1
+371,Eufaula,36027,1
+372,Pooler,31322,1
+373,Zebulon,30295,1
+374,Pascagoula,39581,1
+375,Brampton,l6p 1r9,1
+376,Columbia,29201,1
+377,Colbert,30628,1
+378,Baxley,31513,1
+379,Roanoke,24019,1
